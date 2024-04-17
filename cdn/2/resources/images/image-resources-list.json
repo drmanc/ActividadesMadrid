@@ -1,0 +1,30 @@
+{
+  "1712943695867": {
+    "originalName": "world-map-karta-mira.jpg",
+    "fileName": "1712943695867.jpg",
+    "size": 958095,
+    "url": "${appResourceUrl}/images/widget_1/1712943695867.jpg",
+    "created": 1712943695867,
+    "resourcesPrefix": "images/widget_1",
+    "referedIds": [],
+    "originId": "1712943695867",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 2560,
+    "originalHeight": 1600
+  },
+  "1712943954745": {
+    "originalName": "exb_logo.png",
+    "fileName": "1712943954745.png",
+    "size": 15681,
+    "url": "${appResourceUrl}/images/widget_7/1712943954745.png",
+    "created": 1712943954745,
+    "resourcesPrefix": "images/widget_7",
+    "referedIds": [],
+    "originId": "1712943954745",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 220,
+    "originalHeight": 220
+  }
+}
